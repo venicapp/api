@@ -1,2 +1,2 @@
-# venic-api
+# api
 API powering https://venic.app
